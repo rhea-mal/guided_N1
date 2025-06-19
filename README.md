@@ -21,7 +21,7 @@ Self-GAD adds a small update step during the diffusion process to guide the poli
 
 ## Method Illustration
 
-<img src="media/adaptive_new.jpeg" width="700" alt="Self-GAD Guidance Illustration" />
+<img src="media/adaptive_new.jpg" width="700" alt="Self-GAD Guidance Illustration" />
 
 Self-GAD nudges predicted actions toward prior trajectories during diffusion denoising.
 
@@ -29,7 +29,7 @@ Self-GAD nudges predicted actions toward prior trajectories during diffusion den
 
 ## Results on GR00T-N1
 
-<img src="media/N1.jpeg" width="700" alt="Self-GAD on GR00T-N1" />
+<img src="media/N1.jpg" width="700" alt="Self-GAD on GR00T-N1" />
 
 Self-GAD improves closed-loop success rates on RoboCasa and DexMG with GR00T-N1.
 

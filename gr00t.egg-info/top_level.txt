@@ -1,0 +1,9 @@
+demo_data
+getting_started
+gr00t
+groot-n1-2b
+media
+plots
+sbatch
+slurm
+videos
